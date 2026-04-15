@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Removed unused variable declarations
 - Noted known limitation in docs
+
+## 2026-04-15
+- Consolidated duplicate helper functions
